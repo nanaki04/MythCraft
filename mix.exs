@@ -29,6 +29,9 @@ defmodule Mythcraft.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    [{:gamestate, git: "https://github.com/nanaki04/ElixirGamestate.git"}]
+    [
+      {:gamestate,    git: "https://github.com/nanaki04/ElixirGamestate.git"},
+      {:masterdata,   git: "https://github.com/nanaki04/MythCraftMasterData.git"} 
+    ]
   end
 end

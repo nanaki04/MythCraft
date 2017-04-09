@@ -1,1 +1,2 @@
-%{"gamestate": {:git, "https://github.com/nanaki04/ElixirGamestate.git", "1b731fb0af2636e5507567dee211162d84fca8a2", []}}
+%{"gamestate": {:git, "https://github.com/nanaki04/ElixirGamestate.git", "1b731fb0af2636e5507567dee211162d84fca8a2", []},
+  "masterdata": {:git, "https://github.com/nanaki04/MythCraftMasterData.git", "ffea8408e284280dfa25ab53bffa59f92145a838", []}}
