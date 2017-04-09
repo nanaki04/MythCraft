@@ -1,6 +1,9 @@
 # Mythcraft
 
-**TODO: Add description**
+[WIP] This project is still under construction
+
+A simple turn based strategy game intended for the programmer to get used to the Elixir language
+
 
 ## Installation
 
